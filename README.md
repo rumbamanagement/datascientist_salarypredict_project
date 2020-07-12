@@ -1,6 +1,6 @@
 # Datascience Salary Prediction: Overview
 
-This project predicts salary of a data scientist. This project is redoing of the project by Ken Jee, PlayingNumbers/ds_salary_proj. I would like to thank Ken Jee for his contribution in data science learning. His Youtube videos and the contents have really helped the beginners like me to start a data science project. I followed his video and learned many data analysis techniques. His Data Science Project from Scratch is informative and in case of me, motivated me to start a project.  
+This project predicts salary of a data scientist. This project is redoing of the project by Ken Jee, PlayingNumbers/ds_salary_proj. I would like to thank Ken Jee for his contribution in data science learning. His Youtube videos and the contents have really helped the beginners like me to do a data science project. I followed his video and learned many data analysis techniques and prediction modules. His Data Science Project from Scratch is informative and in case of me, motivated me to build a project.  
 
 # Code and Resources Used
 
