@@ -8,8 +8,6 @@ This project predicts salary of a data scientist. This project is redoing of the
 * Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
 * Ken Jee's youtube video link (Data Science Project from Scratch): https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t 
 
-# Data Science salary data craped from Glassdoor.com
-
 I have uploaded scraped data in csv format.
 
 # Data Preprocessing 
